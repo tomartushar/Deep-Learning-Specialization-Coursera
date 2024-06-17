@@ -12,15 +12,15 @@
 
 **Certificate: [here.](C1-Neural-Network-and-Deep-Learning/Certificate.pdf)**
 
-**Programming Assignments**
+**Programming assignments**
 - [Week 1]() (No programming assignments)
-- [Week 2 - PA 1 - Python Basics with Numpy](C1-Neural-Network-and-Deep-Learning/week-1/W2A1/)
+- [Week 2 - PA 1 - Python Basics with Numpy](C1-Neural-Network-and-Deep-Learning/week-2/W2A1/)
 - [Week 2 - PA 2 - Logistic Regression with a Neural Network mindset](C1-Neural-Network-and-Deep-Learning/week-2/W2A2/)
 - [Week 3 - PA 3 - Planar data classification with one hidden layer](C1-Neural-Network-and-Deep-Learning/week-3/W3A1/)
 - [Week 4 - PA 4 - Building your Deep Neural Network: Step by Step](C1-Neural-Network-and-Deep-Learning/week-4/W4A1/)
 - [Week 4 - PA 5 - Deep Neural Network for Image Classification: Application](C1-Neural-Network-and-Deep-Learning/week-4/W4A2/)
 
-**Topics Covered**
+**Topics covered**
 - **Week 1:** Introduction, NN, Why Deep learning
 - **Week 2:** Logistic regression, Gradient Descent, Derivatives, Vectorization, Python Broadcasting
 - **Week 3:** NN, Activation function, Backpropagate, Random Initialization
@@ -28,19 +28,35 @@
 
 ---
 
-Course 2: **[Improving Deep Neural Networks](Improving-Deep-Neural-Networks)**
-   - [Week 1](Improving-Deep-Neural-Networks/Week-1)
-   - [Week 2](Improving-Deep-Neural-Networks/Week-2)
-   - [Week 3](Improving-Deep-Neural-Networks/Week-3)
-   - [Certificate](Improving-Deep-Neural-Networks/Certificate.pdf)
+## Course 2: **[Improving Deep Neural Networks](C2-Improving-Deep-Neural-Networks)**
+
+**Certificate: [here.](C2-Improving-Deep-Neural-Networks/Certificate.pdf)**
+
+**Programming assignments**
+- [Week 1 - PA 1 - Initialization](C2-Improving-Deep-Neural-Networks/week-1/W1A1/)
+- [Week 1 - PA 2 - Regularization](C2-Improving-Deep-Neural-Networks/week-1/W1A2/)
+- [Week 1 - PA 3 - Gradient Checking](C2-Improving-Deep-Neural-Networks/week-1/W1A3/)
+- [Week 2 - PA 4 - Optimization Methods](C2-Improving-Deep-Neural-Networks/week-2/W2A1/)
+- [Week 3 - PA 5 - TensorFlow Tutorial](C2-Improving-Deep-Neural-Networks/week-3/W3A1/)
+
+**Topics covered**
+- **Week 1:** Train/Dev/Test set, Bias/Variance, Regularization, Why regularization, Dropout, Normalizing inputs, vanishing/exploding gradients, Gradient checking
+- **Week 2:** Mini-batch, Exponentially weighted average, GD with momentum, RMSProp, Adam optimizer, Learning rate decay, Local optima problem, Plateaus problem
+- **Week 3:** Tuning process, Picking hyperparameter, Normalizing activations, Softmax regression, Deep learning programming framework 
+
 
 ---
 
-Course 3: **[Structuring Machine Learning Projects](Structuring-Machine-Learning-Projects)**
+## Course 3: **[Structuring Machine Learning Projects](C3-Structuring-Machine-Learning-Project)**
 
-   	- No programming assignments
+**Certificate: [here.](C3-Structuring-Machine-Learning-Project/Certificate.pdf)**
 
-   - [Certificate](Structuring-Machine-Learning-Projects/Certificate.pdf)
+**Programming assignments:** No programming assignment.
+
+**Topics covered**
+- **Week 1:** Why ML Strategy?, Orthogonalization, Single number evaluation metric, Satisficing and optimizing metrics, Train/dev/test distribution, Human level performance, Avoidable bias
+- **Week 2:** Error analysis, Incorrectly labeled data, Data augmentation, Transfer learning, Multitask learning, End-to-End Deep learning
+
 
 ---
 
