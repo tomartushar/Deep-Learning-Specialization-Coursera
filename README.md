@@ -6,6 +6,7 @@
 	<a href="https://www.coursera.org/specializations/deep-learning"><img src="https://img.shields.io/badge/Platform-Coursera-2a73cc?style=for-the-badge&logo=coursera&logoColor=white"></a>
 </p>
 
+
 ---
 
 ## Course 1: **[Neural Networks and Deep Learning](C1-Neural-Network-and-Deep-Learning)**
@@ -25,6 +26,7 @@
 - **Week 2:** Logistic regression, Gradient Descent, Derivatives, Vectorization, Python Broadcasting
 - **Week 3:** NN, Activation function, Backpropagate, Random Initialization
 - **Week 4:** Deep L-layer Neural network, Matrix dimension right, Why Deep representation, Building blocks of NN, Parameters vs Hyperparameters, Relationship with brain
+
 
 ---
 
@@ -60,17 +62,51 @@
 
 ---
 
-Course 4: **[Convolutional Neural Networks](Convolutional-Neural-Networks)**
-   - [Week 1](Convolutional-Neural-Networks/Week-1)
-   - [Week 2](Convolutional-Neural-Networks/Week-2)
-   - [Week 3](Convolutional-Neural-Networks/Week-3)
-   - [Week 4](Convolutional-Neural-Networks/Week-4)
-   - [Certificate](Convolutional-Neural-Networks/Certificate.pdf)
+## Course 4: **[Convolutional Neural Networks](C4-Convolution-Neural-Network)**
+
+**Certificate: [here.](C4-Convolution-Neural-Network/Certificate.pdf)**
+
+**Programming assignments**
+- [Week 1 - PA 1 - Convolutional Model: step by step](C4-Convolution-Neural-Network/week-1/W1A1/)
+- [Week 1 - PA 2 - Convolutional Neural Networks: Application](C4-Convolution-Neural-Network/week-1/W1A2/)
+- [Week 2 - PA 3 - Residual Networks](C4-Convolution-Neural-Network/week-2/W2A1/)
+- [Week 2 - PA 4 - Transfer Learning with MobileNet](C4-Convolution-Neural-Network/week-2/W2A2/)
+- [Week 3 - PA 5 - Car detection with YOLO for Autonomous Driving](C4-Convolution-Neural-Network/week-3/W3A1/)
+- [Week 3 - PA 6 - Image Segmentation Unet](C4-Convolution-Neural-Network/week-3/W3A2/)
+- [Week 4 - PA 7 - Face Recognition](C4-Convolution-Neural-Network/week-4/W4A1/)
+- [Week 4 - PA 8 - Art Generation with Neural Style Transfer](C4-Convolution-Neural-Network/week-4/W4A2/)
+
+**Topics covered**
+- **Week 1:** Computer vision, Edge detection, Padding, Strided convolution, Convolutions over volume, Pooling layers, CNN, Why CNN?
+- **Week 2:** LeNet-5, AlexNet, VGG-16, ResNets, 1x1 convolutions, InceptionNet, Data augmentation
+- **Week 3:** Object localization, Landmark detection, Object detection, Sliding window, Bounding box prediction, Intersection over union(IOU), Non-max suppression, Anchor box, YOLO algorithm
+- **Week 4:** Face recognition, One-shot learning, Siamese network, Neural style transfer
+
 
 ---
 
-Course 5: **[Sequence Models](Sequence-Models)**
-   - [Week 1](Sequence-Models/Week-1)
-   - [Week 2](Sequence-Models/Week-2)
-   - [Week 3](Sequence-Models/Week-3)
-   - [Certificate](Sequence-Models/Certificate.pdf)
+## Course 5: **[Sequence Models](C5-Sequence-Models)**
+
+**Certificate: [here.](C5-Sequence-Models/Certificate.pdf)**
+
+**Programming assignments**
+
+- [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](C5-Sequence-Models/week-1/W1A1/)
+- [Week 1 - PA 2 - Dinosaur Land -- Character-level Language Modeling](C5-Sequence-Models/week-1/W1A2/)
+- [Week 1 - PA 3 - Jazz improvisation with LSTM](C5-Sequence-Models/week-1/W1A3/)
+- [Week 2 - PA 4 - Word Vector Representation and Debiasing](C5-Sequence-Models/week-2/W2A1/)
+- [Week 2 - PA 5 - Emojify!](C5-Sequence-Models/week-2/W2A2/)
+- [Week 3 - PA 6 - Neural Machine Translation with Attention](C5-Sequence-Models/week-3/W3A1/) 
+- [Week 3 - PA 7 - Trigger Word Detection](C5-Sequence-Models/week-3/W3A2/)
+- [Week 4 - PA 8 - Transformer Implementation](C5-Sequence-Models/week-4/W4A1/)
+
+**Topics covered**
+
+
+- **Week 1:** RNN, Notation, Vanishing gradient, GRU, LSTM, Bidirectional RNN, Deep RNN
+- **Week 2:** Word representation, Word embedding, Cosine similarity, Word2Vec, Negetive sampling, GloVe words, Debiasing word
+- **Week 3:** Beam search, Error analysis in Beam search, Bleu score, Attention model, Speech recognition
+- **Week 4:** Transformer Intution, Self Attention, Multi-head Attention, Transformers
+
+---
+  
