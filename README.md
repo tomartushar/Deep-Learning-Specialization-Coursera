@@ -10,21 +10,21 @@
 
 ## Course 1: **[Neural Networks and Deep Learning](C1-Neural-Network-and-Deep-Learning)**
 
-### **Certificate: [here.](C1-Neural-Network-and-Deep-Learning/Certificate.pdf)**
+**Certificate: [here.](C1-Neural-Network-and-Deep-Learning/Certificate.pdf)**
 
-### **Programming Assignments**
-	- [Week 1]() (No programming assignments)
-	- [Week 2 - PA 1 - Python Basics with Numpy](C1-Neural-Network-and-Deep-Learning/week-2/W2A1/)
-	- [Week 2 - PA 2 - Logistic Regression with a Neural Network mindsed](C1-Neural-Network-and-Deep-Learning/week-2/W2A2/)
-	- [Week 3 - PA 3 - Planar data classification with one hidden layer](C1-Neural-Network-and-Deep-Learning/week-3/W3A1/)
-	- [Week 4 - PA 4 - Building your Deep Neural Network: Step by Step](C1-Neural-Network-and-Deep-Learning/week-4/W4A1/)
-    - [Week 4 - PA 5 - Deep Neural Network for Image Classification: Application](C1-Neural-Network-and-Deep-Learning/week-4/W4A2/)
+**Programming Assignments**
+- [Week 1]() (No programming assignments)
+- [Week 2 - PA 1 - Python Basics with Numpy](C1-Neural-Network-and-Deep-Learning/week-1/W2A1/)
+- [Week 2 - PA 2 - Logistic Regression with a Neural Network mindset](C1-Neural-Network-and-Deep-Learning/week-2/W2A2/)
+- [Week 3 - PA 3 - Planar data classification with one hidden layer](C1-Neural-Network-and-Deep-Learning/week-3/W3A1/)
+- [Week 4 - PA 4 - Building your Deep Neural Network: Step by Step](C1-Neural-Network-and-Deep-Learning/week-4/W4A1/)
+- [Week 4 - PA 5 - Deep Neural Network for Image Classification: Application](C1-Neural-Network-and-Deep-Learning/week-4/W4A2/)
 
-### **Topics Covered**
-    - **Week 1:** Introduction, NN, Why Deep learning
-    - **Week 2:** Logistic regression, Gradient Descent, Derivatives, Vectorization, Python Broadcasting
-    - **Week 3:** NN, Activation function, Backpropagate, Random Initialization
-    - **Week 4:** Deep L-layer Neural network, Matrix dimension right, Why Deep representation, Building blocks of NN, Parameters vs Hyperparameters, Relationship with brain
+**Topics Covered**
+- **Week 1:** Introduction, NN, Why Deep learning
+- **Week 2:** Logistic regression, Gradient Descent, Derivatives, Vectorization, Python Broadcasting
+- **Week 3:** NN, Activation function, Backpropagate, Random Initialization
+- **Week 4:** Deep L-layer Neural network, Matrix dimension right, Why Deep representation, Building blocks of NN, Parameters vs Hyperparameters, Relationship with brain
 
 ---
 
