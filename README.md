@@ -6,6 +6,7 @@
 	<a href="https://www.coursera.org/specializations/deep-learning"><img src="https://img.shields.io/badge/Platform-Coursera-2a73cc?style=for-the-badge&logo=coursera&logoColor=white"></a>
 </p>
 
+Welcome to the repository for my submissions, notes, and related code for the specialization. The specialization consists of five courses. Completion certificate can be viewed **[here.](Certificate.pdf)** 
 
 ---
 
@@ -24,8 +25,8 @@
 **Topics covered**
 - **Week 1:** Introduction, NN, Why Deep learning
 - **Week 2:** Logistic regression, Gradient Descent, Derivatives, Vectorization, Python Broadcasting
-- **Week 3:** NN, Activation function, Backpropagate, Random Initialization
-- **Week 4:** Deep L-layer Neural network, Matrix dimension right, Why Deep representation, Building blocks of NN, Parameters vs Hyperparameters, Relationship with brain
+- **Week 3:** NN, Activation function, Backpropagation, Random Initialization
+- **Week 4:** Deep L-layer Neural network, Matrix dimension verfication, Why Deep representation, Building blocks of NN, Parameters vs Hyperparameters, Relationship with brain
 
 
 ---
@@ -44,7 +45,7 @@
 **Topics covered**
 - **Week 1:** Train/Dev/Test set, Bias/Variance, Regularization, Why regularization, Dropout, Normalizing inputs, vanishing/exploding gradients, Gradient checking
 - **Week 2:** Mini-batch, Exponentially weighted average, GD with momentum, RMSProp, Adam optimizer, Learning rate decay, Local optima problem, Plateaus problem
-- **Week 3:** Tuning process, Picking hyperparameter, Normalizing activations, Softmax regression, Deep learning programming framework 
+- **Week 3:** Tuning process,  Hyperparameter selection, Batch Normalization, Softmax regression, Deep learning programming framework 
 
 
 ---
@@ -103,8 +104,8 @@
 **Topics covered**
 
 
-- **Week 1:** RNN, Notation, Vanishing gradient, GRU, LSTM, Bidirectional RNN, Deep RNN
-- **Week 2:** Word representation, Word embedding, Cosine similarity, Word2Vec, Negetive sampling, GloVe words, Debiasing word
+- **Week 1:** RNN, Notation, BPTT, RNN-variants, Vanishing gradient, GRU, LSTM, Bidirectional RNN, Deep RNN
+- **Week 2:** Word representation, Word embedding, Cosine similarity, Word2Vec, Negetive sampling, GloVe word vectors, Debiasing word
 - **Week 3:** Beam search, Error analysis in Beam search, Bleu score, Attention model, Speech recognition
 - **Week 4:** Transformer Intution, Self Attention, Multi-head Attention, Transformers
 
