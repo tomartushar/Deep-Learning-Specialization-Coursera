@@ -100,6 +100,9 @@ Welcome to the repository for my submissions, notes, and related code for the sp
 - [Week 3 - PA 6 - Neural Machine Translation with Attention](C5-Sequence-Models/week-3/W3A1/) 
 - [Week 3 - PA 7 - Trigger Word Detection](C5-Sequence-Models/week-3/W3A2/)
 - [Week 4 - PA 8 - Transformer Implementation](C5-Sequence-Models/week-4/W4A1/)
+- [Week 4 - PA 9 - Transformer Application: Named Entity Recognition](C5-Sequence-Models/week-4/W4A2_UGL/)
+- [Week 4 - PA 10 - Transformer Application: Question Answering](C5-Sequence-Models/week-4/W4A3_UGL/)
+- [Week 4 - PA 11 - Transformer Application: Transformer Preprocessing](C5-Sequence-Models/week-4/W4A4_UGL_POS/)
 
 **Topics covered**
 
